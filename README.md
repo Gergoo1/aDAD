@@ -25,12 +25,19 @@
 </a href="www.facebook.com">
 
 <h1><p style="color: darkcyan;">Tápegység</p></h1>
+<h4><p style="color:green;">FOGALMA: A tápegység olyan készülék, amely az elektromos hálózat energiáját a rácsatlakoztatni kívánt eszköz által megkívánt feszültségűre alakítja.</p></h4>
 <a href="https://www.infolex.hu/termekek/adatlap/20195/chieftec-gpa-450s8-iarena-450w-atx-tapegyseg">
          <br>
 
 
 <img src="https://www.infolex.hu/kep/20195/nagy/chieftec-gpa-450s8-iarena-450w-atx-tapegyseg.jpg" width="850" height="600">
 </a>
+<h2><p style="color: darkmagenta;">Számitógép Hardver eszközei:</p></h2>
+<li>Ház és tápegység <br> </li>
+  <li>  Alaplap, processzor, memória <br> </li>
+   <li> Bővítőkártyák: pl. videókártya, hangkártya <br> </li>
+   <li> Háttértárak (merevlemez, CD- vagy DVD-meghajtó) <br> </li>
+  <li>  Külső perifériák</li>
 <h2><p style="color: darkblue;">Lista</p></h2>
 </a>
 <ul>
